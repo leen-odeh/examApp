@@ -3,7 +3,6 @@ import Data from './data';
 import Style from './style.css';
 import { useState } from 'react';
 import Exam from './exam';
-import {BrowserRouter,Route , Link} from 'react-router-dom';
 
 
 export default class App extends Component{
